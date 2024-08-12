@@ -65,3 +65,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/devAndressa/devAndressa/output/snake.svg" alt="Snake animation" />
+
+###
